@@ -1,0 +1,15 @@
+# C++
+*/Debug
+*/Release
+*/*/Debug
+*/*/Release
+*.sdf
+*.opensdf
+*.sln
+*.suo
+*.vcxproj*
+*index.txt
+
+# python
+venv
+.idea
